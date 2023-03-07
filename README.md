@@ -15,7 +15,7 @@ Use this HugoMention wisely.
 When you have installed this Bot, it means you are ready to take the risk.
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StevanKz/HugoMention)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Recordu/HugoMention)
 
 ## 🏷 Support
 
